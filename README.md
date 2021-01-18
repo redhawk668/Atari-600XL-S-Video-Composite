@@ -18,6 +18,10 @@ Top:
 
 ![alt text](https://github.com/redhawk668/Atari-600XL-S-Video-Composite/blob/main/Rev.%20A/Atari%20XL%20s-video%20Top.png)
 
+Bottom:
+
+![alt text](
+
 
 
 
