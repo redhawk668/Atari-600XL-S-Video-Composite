@@ -12,6 +12,9 @@ However, the 800XLF has chroma connected. The XE series also have the chroma lin
 
 It should also work on NTSC machines.
 
+# Rev. A
+
+
 
 
 
