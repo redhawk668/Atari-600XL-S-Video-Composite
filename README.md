@@ -22,6 +22,12 @@ Bottom:
 
 ![alt text](https://github.com/redhawk668/Atari-600XL-S-Video-Composite/blob/main/Rev.%20A/Atari%20XL%20s-video%20Bottom.png)
 
+Installed in a 600XL:
+
+![alt text](https://github.com/redhawk668/Atari-600XL-S-Video-Composite/blob/main/IMG_20210214_222057_1.jpg)
+
+
+
 
 
 
