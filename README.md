@@ -30,31 +30,31 @@ Installed in a 600XL:
 
 # Billing of Materials:
 
-|Quantity |Value  |Component    |Package          |Parts                    |Description              |
-|---------|-------|-------------|-----------------|-------------------------|-------------------------|
-| 7x      | 1K    | Res805      | 0805            | R1,R2,R3,R4,R5,R14,R15  | Resistors               |
-| 1x      | 36K   | Res805      | 0805            | R6                      | Resistor                |
-| 1x      | 18K   | Res805      | 0805            | R7                      | Resistor                |
-| 1x      | 9K1   | Res805      | 0805            | R8                      | Resistor                |
-| 1x      | 4K7   | Res805      | 0805            | R9                      | Resistor                |
-| 1x      | 750R  | Res805      | 0805            | R10                     | Resistor                |
-| 1x      | 1K6   | Res805      | 0805            | R11                     | Resistor                |
-| 1x      | 2K    | Res805      | 0805            | R12                     | Resistor                |
-| 1x      | 18K   | Res805      | 0805            | R13                     | Resistor                |
-| 3x      | 75R   | Res805      | 0805            | R16,R17,R21             | Resistor                |
-| 1x      | 2K2   | Res805      | 0805            | R19                     | Resistor                |
-| 2x      | 3K3   | Res805      | 0805            | R20,R22                 | Resistor                |
-| 1x      | 22uF  | CP_Elec     | Can 6.3x5.3     | C1                      | Electrolytic Capacitor  |
-| 5x      | 0.1uF | Cap0805     | 0805            | C2,C3,C4,C5,C6          | Ceramic Capacitor       |
-| 1x      | 1N4148| DIODE323    | SOD-323         | CR1                     | 1N4148 Diode            |
-| 1x      | BC847 | Trans323    | SOT-323/SC70    | Q1                      | BC847 Transistor        |
-| 1x      | 4050  | HEXBuffer   | SOP-16          | U1                      | 74HC4050 Buffer         |
-| 1x      | 7314  | VideoFilter | SOIC-8          | U2                      | THS7314 Video/Filter    |
-| 1x      |       | Header      | 6x PinHeader    | GTIA Input              | 6x Angled PinHeader     |
-| 1x      |       | Header      | 3x PinHeader    | Output                  | 3x Straight PinHeader   |
-| 1x      |       | Header      | 2x PinHeader    | PCB mount               | 2x Straight PinHeader   |
-| 1x      |       | Header      | 3x PinHeader    | PCB Mount               | 3x Straight PinHeader   |
-|-----------------------------------------------------------------------------------------------------|
+|Qty |Value  |Component    |Package          |Parts                    |Description              |
+|----|-------|-------------|-----------------|-------------------------|-------------------------|
+| 7x | 1K    | Res805      | 0805            | R1,R2,R3,R4,R5,R14,R15  | Resistors               |
+| 1x | 36K   | Res805      | 0805            | R6                      | Resistor                |
+| 1x | 18K   | Res805      | 0805            | R7                      | Resistor                |
+| 1x | 9K1   | Res805      | 0805            | R8                      | Resistor                |
+| 1x | 4K7   | Res805      | 0805            | R9                      | Resistor                |
+| 1x | 750R  | Res805      | 0805            | R10                     | Resistor                |
+| 1x | 1K6   | Res805      | 0805            | R11                     | Resistor                |
+| 1x | 2K    | Res805      | 0805            | R12                     | Resistor                |
+| 1x | 18K   | Res805      | 0805            | R13                     | Resistor                |
+| 3x | 75R   | Res805      | 0805            | R16,R17,R21             | Resistor                |
+| 1x | 2K2   | Res805      | 0805            | R19                     | Resistor                |
+| 2x | 3K3   | Res805      | 0805            | R20,R22                 | Resistor                |
+| 1x | 22uF  | CP_Elec     | Can 6.3x5.3     | C1                      | Electrolytic Capacitor  |
+| 5x | 0.1uF | Cap0805     | 0805            | C2,C3,C4,C5,C6          | Ceramic Capacitor       |
+| 1x | 1N4148| DIODE323    | SOD-323         | CR1                     | 1N4148 Diode            |
+| 1x | BC847 | Trans323    | SOT-323/SC70    | Q1                      | BC847 Transistor        |
+| 1x | 4050  | HEXBuffer   | SOP-16          | U1                      | 74HC4050 Buffer         |
+| 1x | 7314  | VideoFilter | SOIC-8          | U2                      | THS7314 Video/Filter    |
+| 1x |       | Header      | 6x PinHeader    | GTIA Input              | 6x Angled PinHeader     |
+| 1x |       | Header      | 3x PinHeader    | Output                  | 3x Straight PinHeader   |
+| 1x |       | Header      | 2x PinHeader    | PCB mount               | 2x Straight PinHeader   |
+| 1x |       | Header      | 3x PinHeader    | PCB Mount               | 3x Straight PinHeader   |
+
 
 
 
