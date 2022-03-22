@@ -77,7 +77,7 @@ This guide will point out differences between PAL and NTSC installation steps, w
 
 Before you begin:
 
-This project requires surface-mount soldering skills; most parts are fairly easy to work with - the diode and transistor are the smallest parts (SOT-323), with the diode pads being very small. Be sure you can solder SMD, or know someone who can.
+This project requires surface-mount soldering skills; most parts are fairly easy to work with - the diode and transistor are the smallest parts (SOD-323), with the diode pads being very small. Be sure you can solder SMD, or know someone who can.
 
 The pre-generated Gerber files included in the repository should be directly 'uploadable' to most PCB manufacturers without modification. It is a 4-layer board - nothing out of the ordinary to note. The cost to manufacturer 5 boards is likely less than $20.
 
